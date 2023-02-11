@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #128c7e;
+}
+
+.profile > img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.line {
+    width: 90%;
+    height: 3px;
+    background-color: #eaeaea;
+}
+
+.dl {
+    text-decoration: none;
+}
